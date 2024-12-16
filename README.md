@@ -32,7 +32,22 @@ The **Bernoulli Naive Bayes** model achieved the following performance:
 - **F1-Score**: 96%
 
 # Future Improvements
-Add real-time spam message detection for messaging platforms.
-Explore advanced models like **BERT** or deep learning for improved accuracy.
-Include multilingual support for SMS messages.
-Integrate user feedback for adaptive learning.
+- Add real-time spam message detection for messaging platforms.
+- Explore advanced models like **BERT** or deep learning for improved accuracy.
+- Include multilingual support for SMS messages.
+- Integrate user feedback for adaptive learning.
+
+# Technologies Used
+- **Python**: Programming language
+- **Gradio**: Web interface framework
+- **Scikit-learn**: Machine learning library
+- **NLTK**: Text preprocessing library
+- **TF-IDF**: Text vectorization technique
+
+# Credits
+- **Developer**: Sanket Madane
+- **Guide**: Dr. Pallawi Bulakh
+- **Dataset Source**:
+    - Kaggle SMS Spam Collection
+    - UCI Machine Learning Repository
+
